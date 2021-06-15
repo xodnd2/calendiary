@@ -10,6 +10,7 @@
 (+시연 영상에서 빠뜨렸는데, 달력 날짜에 적히는 메모가 해당 날짜 칸을 넘어가면 스크롤바가 생깁니다!)
 
 구조: mvc2 model
+(톰캣 자체에 mysql-connector-java-8.0.23.jar 파일을 넣어주었기 때문에, web-inf/lib에 따로 jar 파일을 넣지 않았습니다.)
 
 WebContent 폴더
 : jsp 파일들 (가시적인 부분)

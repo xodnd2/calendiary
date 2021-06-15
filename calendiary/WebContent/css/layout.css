@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+	text-align: center;
+}
+
+body {
+	background: url("background2.jpg");	
+	background-size: inherit;
+}
+
+#top {
+	border: solid;
+	box-shadow:1px 1px 7px 1px #222;
+	background: url("background.jpg");
+	width : 50%;
+	margin : 0 auto;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+#menuButton {
+	width: 100px;
+	height: 40px; 
+	background-color: #A4A68A;
+	position: absolute;
+	right : 150px;
+}
+
+.nextButton {
+	width : 70px;
+	height: 40px;
+	background-color: #F2CF63;
+	border-radius: 10%;
+}

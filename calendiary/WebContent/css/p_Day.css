@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+table {
+	margin : 0 auto;
+	background: #FFF587;
+	border: solid;
+	padding : 5px;
+}
+
+#memos {
+	margin-top: 20px;
+}
+
+#text {
+	width : 20%;
+	height : 30px;
+	font-size: 25px;
+}

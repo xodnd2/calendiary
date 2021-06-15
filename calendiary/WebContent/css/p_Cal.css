@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+table {
+margin : 0 auto;
+border : solid;
+background-color: #9ACFDD;
+}
+table tr th{
+background-color: #6593A6;
+height: 50px;
+box-sizing: border-box;
+}
+table tr td{
+vertical-align: top;
+text-align: left;
+border : solid;
+font-size: 22px;
+background-color: white;
+height: 150px;
+width: 250px;
+box-sizing: border-box;
+}
+#today {
+border : red solid;
+background-color: #F2C5BB;
+}
+#blank {
+border: hidden;
+background-color: #9ACFDD;
+}
+ul {
+	margin : 0;
+	box-sizing: border-box;
+	height: 105px;
+	overflow: auto;
+}
+ul li{
+	text-align: left;
+	font-size: 15px;
+}
+.memo {
+	overflow: auto;
+}

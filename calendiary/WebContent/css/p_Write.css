@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#title {
+	text-align: left;
+	width: 25%;
+	height : 30px;
+	font-size: 25px;
+}
+
+#content {
+	text-align: left;
+	width: 50%;
+	height: 600px;
+}

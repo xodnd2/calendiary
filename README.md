@@ -14,10 +14,10 @@
 구조: mvc2 model
 (톰캣 자체에 mysql-connector-java-8.0.23.jar 파일을 넣어주었기 때문에, web-inf/lib에 따로 jar 파일을 따로 넣지 않았습니다.)
 
-WebContent 폴더
-: jsp 파일들 (가시적인 부분)
+/WebContent
+: jsp 파일들 (가시적인 부분). 다만, Session으로 끝나는 jsp 파일은 단순 세션만 생성해주는 부분이라 비가시적 부분입니다.
 
-WebContent/css
+/WebContent/css
 : css 파일 & 이미지
 
 Java Resources/src

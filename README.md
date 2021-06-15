@@ -1,6 +1,7 @@
 # calendiary
 
 구조: mvc2 model
+
 WebContent 폴더
 : jsp 파일들 (가시적인 부분)
 
